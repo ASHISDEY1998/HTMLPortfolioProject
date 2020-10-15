@@ -1,6 +1,6 @@
 # HTML Portfolio
 
-You'll create a personal web page to show off your work. We will test your HTML knowledge, and then it will be up to you to use CSS to style your own page and make it unique.
+You'll create a personal web page to show off your work. We will test your HTML knowledge, and then it will be up to you to use CSS to style your page and make it unique.
 
 ## What You'll Build
 
@@ -14,7 +14,7 @@ We'll dive into a number of basic HTML concepts, including:
 
 * Creating an HTML page
 * Using classes to organize your page and tie in styles
-* Using headings to denote importance
+* Using headings to denote the importance
 * Adding text using paragraphs
 * Creating links so users can contact you
 
@@ -59,23 +59,23 @@ Also inside the `.header` element, add a `h2` tag with a job title (ie. "softwar
 
 ### The Tagline Element
 
-Next, create a new element that has a CSS class called `tagline`. In this element you'll be giving a little more information about yourself.	MENU
+Next, create a new element that has a CSS class called `tagline`. In this element, you'll be giving a little more information about yourself.	MENU
 
 ### A Little About You
 
-Inside the `.tagline` element, create a `h3` tag inviting the visitor to learn more about you (ie. "Learn More About Me", or "Here's What I Do", etc). Also add an introductory paragraph with more information about yourself, including what things you're passionate about, programming languages you enjoy writing in, etc.	MENU
+Inside the `.tagline` element, create an `h3` tag inviting the visitor to learn more about you (ie. "Learn More About Me", or "Here's What I Do", etc). Also add an introductory paragraph with more information about yourself, including what things you're passionate about, programming languages you enjoy writing in, etc.	MENU
 
 ### The Skills Element
 
-Next, we'll create a place to list out our current skills by creating an element with a class of `skills`. In here we'll be listing out what we already know.	MENU
+Next, we'll create a place to list our current skills by creating an element with a class of `skills`. Here we'll be listing out what we already know.	MENU
 
 ### Skills Content
 
-Inside the `.skills` element, create a `h3` tag inviting the user to learn more about your skills (ie. "my skills"). Also add a paragraph tag describing your skills (ie. "I enjoy writing front-end code with these technologies").	MENU
+Inside the `.skills` element, create a `h3` tag inviting the user to learn more about your skills (ie. "my skills"). Also, add a paragraph tag describing your skills (ie. "I enjoy writing front-end code with these technologies").	MENU
 
 ### List of Skills
 
-Inside the `.skills` element, create a new `ul` which will be a list of of your skills. In here, add 3 skills you currently possess. `HTML` must be one of these skills.	MENU
+Inside the `.skills` element, create a new `ul` which will be a list of your skills. In here, add 3 skills you currently possess. `HTML` must be one of these skills.	MENU
 
 ### The Contact Element
 
@@ -83,7 +83,7 @@ The last section of our page will give people a way to contact us. Create a wrap
 
 ### Contact Copy
 
-Inside the `.contact` element, create a `h3` tag inviting the user to contact you (ie. "contact me", or "drop me a line"). Also add a paragraph tag describing how people can contact you.	MENU
+Inside the `.contact` element, create a `h3` tag inviting the user to contact you (ie. "contact me", or "drop me a line"). Also, add a paragraph tag describing how people can contact you.	MENU
 
 ### Contact Link
 
